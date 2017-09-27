@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """Extracts CNN features for all the image files in a directory.
 Saves as a JSON file.
 """

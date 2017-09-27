@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """Image center crop tool for directories.
 Give the name of the input directory and the output directory.
 """
